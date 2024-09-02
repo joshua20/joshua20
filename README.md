@@ -1,16 +1,2 @@
-Hi i am  Joshua
-based in Nairobi-kenya
-A general IT background guy transitioning to full software engineer
-my goal to acquire skills that will lead to becoming a data scientist.
-current i have gained intermediate skills in
-PHP
-HTML
-CSS
-PYTHON
-Bootstrap
-excel
-powerBI
-Docker
-GIT
-MYSQLI
-i look foward to joining an active community and remote work thereafter
+Joshua is a software Engineer working on innovative solutions within the Space ecosystem.Eart observation Data is essential for informed decision making, disaster management,precision agriculture, natural resource management and many more applicational areas.I work with a dedicated team to ensure our products are user centered and user driven.
+My tools of trade are mostly open source technologies with a minimal blend of commercial products.
